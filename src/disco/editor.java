@@ -154,8 +154,6 @@ public class editor extends javax.swing.JFrame {
             } catch (IOException ex) {
                 Logger.getLogger(editor.class.getName()).log(Level.SEVERE, null, ex);
             }
-            
-            System.out.println("Suecuero :)");
 
         }
     }//GEN-LAST:event_btnSalvarActionPerformed
