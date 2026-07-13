@@ -28,18 +28,4 @@ The project was developed to practice:
 - Event-driven programming
 - Desktop application development in Java
 
-## Getting Started
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/java-text-editor.git
-```
-
-2. Open the project in NetBeans or any Java IDE.
-
-3. Build and run the application.
-
-## Author
-
 Developed for academic purposes.
